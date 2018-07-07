@@ -46,7 +46,6 @@
         "no-duplicate-variable": true,
         "no-empty": [true, "allow-empty-catch"],
         "no-implicit-dependencies": [true, "dev"],
-        "no-inferrable-types": true,
         "no-magic-numbers": true,
         "no-namespace": [true, "allow-declarations"],
         "no-null-keyword": true,
