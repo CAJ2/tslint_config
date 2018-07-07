@@ -63,7 +63,7 @@
         "one-line": [true, "check-open-brace"],
         "only-arrow-functions": [true, "allow-declarations", "allow-named-functions"],
         "ordered-imports": [
-            true,
+            false,
             {
                 "grouped-imports": true
             }
